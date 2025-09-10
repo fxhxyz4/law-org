@@ -1,6 +1,7 @@
 # Misc
 text.txt
 build/
+pnpm-lock.yaml
 package-lock.*
 
 # Logs
